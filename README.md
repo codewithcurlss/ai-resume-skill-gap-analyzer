@@ -21,3 +21,7 @@ A beginner-friendly Python project that analyzes user skills against an AI Engin
 ## How to Run
 
 python analyzer.py
+
+## Project Output
+
+![Project Output](Screenshot%202026-06-06%20200329.png)
