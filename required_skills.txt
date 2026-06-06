@@ -1,0 +1,14 @@
+Python
+NumPy
+Pandas
+SQL
+Machine Learning
+Scikit-Learn
+PyTorch
+NLP
+Transformers
+RAG
+FastAPI
+Docker
+Git
+GitHub
